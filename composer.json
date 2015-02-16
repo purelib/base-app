@@ -9,6 +9,6 @@
         "purelib/base": "master-dev"
     },
     "autoload": {
-        "psr-4": {"PureLib\\BaseApp":""}
+        "psr-4": {"PureLib\\BaseApp\\":""}
     }
 }
